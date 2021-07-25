@@ -335,6 +335,10 @@ body:before {
   line-height: 1.5rem;
 }
 
+.attribution {
+  margin-bottom: 1rem;
+}
+
 @media (min-width: 1024px) {
   body {
     height: 100vh;

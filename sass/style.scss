@@ -277,6 +277,10 @@ body {
   }
 }
 
+.attribution{
+    margin-bottom: 1rem;
+}
+
 @media (min-width:1024px){
     body{
         height: 100vh;
@@ -301,7 +305,6 @@ body {
                 .phone{
                     width: 60%;
                     margin-top: 0;
-                    
                 }
             }
             .description{
