@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/saurabh1996-rex/Chat-app-illustration/)
+- Live Site URL: [live site URL](https://saurabh1996-rex.github.io/Chat-app-illustration/)
 
 ## My process
 
