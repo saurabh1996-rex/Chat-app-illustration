@@ -72,6 +72,8 @@ body {
 .phonesection {
   display: flex;
   justify-content: center;
+  animation-name: phone;
+  animation-duration: 1s;
   .phone {
     width: 75%;
     background-color: var(--White);
@@ -260,6 +262,11 @@ body {
       }
     }
   }
+}
+
+@keyframes phone{
+  from {opacity: 0;}
+  to{opacity: 1;}
 }
 
 .description {

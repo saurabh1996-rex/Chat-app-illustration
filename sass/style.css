@@ -60,6 +60,10 @@ body:before {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
+  -webkit-animation-name: phone;
+          animation-name: phone;
+  -webkit-animation-duration: 1s;
+          animation-duration: 1s;
 }
 
 .phonesection .phone {
@@ -316,6 +320,24 @@ body:before {
 
 .phonesection .phone .innersection .inputfeild .sendBtn .fa {
   color: var(--White);
+}
+
+@-webkit-keyframes phone {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes phone {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
 }
 
 .description {
