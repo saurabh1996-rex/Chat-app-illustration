@@ -61,7 +61,7 @@ To see how you can add code snippets, see below:
 
 ### Continued development
 
-Really looking forward in working with much more complex CSS styles. I will be working on understandign flexbox and grid concepts in detail so that it'd be easier for me as I move along.
+Really looking forward in working with much more complex CSS styles. I will be working on understanding flexbox and grid concepts in detail so that it'd be easier for me as I move along.
 
 
 ### Useful resources
